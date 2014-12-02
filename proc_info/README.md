@@ -1,7 +1,7 @@
 proc_info - Get time process started
 ====
 
-You'll fine here example code for getting process information (for a provided pid) on FreeBSD(10.x), NetBSD(6.1.5), and Mac OS X (10.9, Mavericks). I'll add OpenBSD for completeness when I get a chance.
+Here you'll find some example code for getting process information (for a provided pid) on FreeBSD(10.x), NetBSD(6.1.5), and Mac OS X (10.9, Mavericks). I'll add OpenBSD for completeness when I get a chance.
 
 The specific info in the code is the time the process was started, but the data structure retrieved from the kernel has all the rest of the information on the process (there's comment point to the header where the struct is described), you might want. 
 
