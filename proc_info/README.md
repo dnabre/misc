@@ -5,7 +5,7 @@ Here you'll find some example code for getting process information (for a provid
 
 The specific info in the code is the time the process was started, but the data structure retrieved from the kernel has all the rest of the information on the process (there's comment point to the header where the struct is described), you might want. 
 
-Licensed as listed, though wouldn't mind hearing if it was userful to anyone. 
+Licensed as listed (parent/repo directory if LICENSE isn't located in this directory), though wouldn't mind hearing if it was userful to anyone. 
 
 
 History
