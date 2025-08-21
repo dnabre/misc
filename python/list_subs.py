@@ -49,7 +49,7 @@ print(f"\nYou're subscribed to {len(subreddits)} subreddits:\n")
 
 # Define multireddit name and owner
 MULTI_NAME = "mysubreddits"
-USERNAME = "dnabre"
+USERNAME = username
 
 # Get your Redditor object
 user = reddit.user.me()
